@@ -6,7 +6,7 @@ This package enables you to simplify your automation test script. It provides cr
 ## Install
 To install:
 ```bash
-pip install foobar
+npm i disp-email-util
 ```
 
 ## Usage
