@@ -1,6 +1,6 @@
 {
   "name": "disp-email-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disposable email utilities for automation testing",
   "main": "index.js",
   "type": "module",
